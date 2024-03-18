@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.git{
+    background-color: rgba(26, 221, 205, 0.719);
+    margin-top: 5px;
+    border-top:  4px solid rgba(209, 36, 36, 0.705)
+}
+.jit{
+    float: right;
+    margin-top: 10px;
+    }
+.tit{
+    float: left;
+}
+.goat{
+    clear: both;
+}
+.tri{
+    width: 920px;
+    height: 1720px;
+    margin-left: auto;
+    margin: auto;
+}
+ a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgba(193, 16, 228, 0.986);
+}
+a:hover{color: rgb(30, 15, 236);
+    font-size: 21px;
+}
+.ajay{
+    background-color: rgba(23, 233, 34, 0.555);
+    float: left;
+    width: 600px;
+    border: 2px solid rgb(29, 28, 28);
+    height: 860px;
+}
+.bat{text-align: center;
+    margin-top: 4px;
+    padding-top: 5px;
+    margin-bottom: 8px;
+}
+   h2{
+        font-size: 18px;
+        color: rgb(197, 18, 18);
+    }
+.gani{
+    float: right;
+    width: 310px;
+     border: 3px solid rgba(218, 164, 16, 0.801);
+    height: 860px;
+    background-color: rgb(76, 176, 216);
+}
+p{
+    line-height: 1.2rem;
+}
+li{
+    list-style: none ;
+}
